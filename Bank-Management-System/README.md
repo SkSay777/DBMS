@@ -19,4 +19,4 @@
     - npm start
 - Navigate to http://<span></span>localhost:3000 to view application
 # ER Diagram
-![Alt text](DBMS Tables.png?raw=true)
+![Alt text](DBMS Tables.jpeg?raw=true)
